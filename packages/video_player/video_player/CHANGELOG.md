@@ -1,3 +1,11 @@
+## 0.10.12
+
+* Introduce VideoPlayerOptions to set the audio mix mode.
+
+## 0.10.11+2
+
+* Fix aspectRatio calculation when size.width or size.height are zero.
+
 ## 0.10.11+1
 
 * Post-v2 Android embedding cleanups.
